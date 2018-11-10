@@ -10,10 +10,10 @@ def format_date(value):
 
 
 TwitterConnect = TwitterSearch(
-    consumer_key='q24QyO9K264d3hbHSbfzSGoaq',
-    consumer_secret='o8QT6TvTV7XjD6WY2QGVI44izit5CjpJNKr6kI3GjcmlOdiWvD',
-    access_token='52308602-tLE9aO2hSTFdlK5aIn0Wb7TRcijpSDLw9e7Wcxuob',
-    access_token_secret='g1wqoMUvBFhhhR36DG9k4NID2O66LTLAD3It4rchq5wQV',
+    consumer_key='',
+    consumer_secret='',
+    access_token='',
+    access_token_secret='',
  )
 
 
